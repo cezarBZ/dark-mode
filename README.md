@@ -3,4 +3,4 @@ Criação de dark mode com vanillaJS e css
 <hr>
 
 Dark mode creation with vanillaJS and css
-https://cezarbz.github.io/dark-mode/
+Uploaded on github pages
